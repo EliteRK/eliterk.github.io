@@ -811,10 +811,10 @@ body.locked {
   margin-right: -60vw;
 }
 .quotes-section.animation .quote-row {
-  animation: crawling-line 30s linear infinite;
+  animation: crawling-line 20s linear infinite;
 }
 .quotes-section.animation .quote-row:nth-child(even) {
-  animation: crawling-line 30s linear infinite reverse;
+  animation: crawling-line 20s linear infinite reverse;
 }
 
 .cases .case-item {
