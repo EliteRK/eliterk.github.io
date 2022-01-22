@@ -180,7 +180,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-  background: #CFCBC8;
+  background: #EDEDED;
 }
 html,
 body {
@@ -504,13 +504,13 @@ body {
   padding: 0;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
-  color: #1C1C1C;
+  color: #161616;
 }
 main {
-  background: #CFCBC8;
+  background: #EDEDED;
 }
 body {
-  color: #1C1C1C;
+  color: #161616;
 }
 body.pop-up-open {
   position: fixed;
@@ -541,7 +541,7 @@ body.locked {
   position: fixed;
 }
 .menu-hum span {
-  background: #CFCBC8;
+  background: #EDEDED;
   display: block;
   float: left;
   margin-bottom: 10px;
@@ -591,7 +591,7 @@ body.locked {
   display: block;
   float: left;
   height: 2px;
-  background: #1C1C1C;
+  background: #161616;
 }
 .menu {
   width: 930px;
@@ -667,7 +667,7 @@ body.locked {
   display: inline-block;
 }
 .main-title .title-with-img .selected:hover {
-  color: #1C1C1C;
+  color: #161616;
 }
 .main-title .hover-img {
   position: absolute;
@@ -718,7 +718,7 @@ body.locked {
   padding-bottom: 56.25%;
   height: 0;
   position: relative;
-  background: #1C1C1C;
+  background: #161616;
 }
 .video-section .video video {
   position: absolute;
@@ -731,7 +731,7 @@ body.locked {
 }
 .video-section .play-btn {
   background: none;
-  border: 2px solid #CFCBC8;
+  border: 2px solid #EDEDED;
   width: 156px;
   height: 156px;
   border-radius: 50%;
@@ -800,7 +800,7 @@ body.locked {
 }
 .quotes-section .quote-row {
   font-size: 175px;
-  color: #CFCBC8;
+  color: #EDEDED;
   -webkit-text-stroke: 1px black;
   white-space: nowrap;
   line-height: 1.1;
@@ -839,7 +839,7 @@ body.locked {
 .cases .case-item-image {
   position: relative;
   overflow: hidden;
-  background: #1C1C1C;
+  background: #161616;
   will-change: transform;
   --imgwidth: 100%;
   width: var(--imgwidth);
@@ -1005,7 +1005,7 @@ body.locked {
   right: -30px;
 }
 .more-projects .cases-link:hover span {
-  color: #CFCBC8;
+  color: #EDEDED;
   -webkit-text-stroke: 2px black;
 }
 .more-projects .cases-link:before {
@@ -1084,7 +1084,7 @@ body.locked {
   height: 100%;
   z-index: 5;
   overflow: auto;
-  background: #CFCBC8;
+  background: #EDEDED;
   text-align: right;
   transition: 0.8s cubic-bezier(0.19, 1, 0.22, 1);
 }
@@ -1194,7 +1194,7 @@ body.locked {
   font-weight: 500;
 }
 .lang-link:hover {
-  color: #1C1C1C;
+  color: #161616;
 }
 .dot {
   width: 40px;
@@ -1202,7 +1202,7 @@ body.locked {
   position: fixed;
   margin-top: -20px;
   margin-left: -20px;
-  background: #CFCBC8;
+  background: #EDEDED;
   border-radius: 50%;
   pointer-events: none;
   z-index: 444;
@@ -1231,7 +1231,7 @@ body.locked {
 }
 .mobile .menu-wrap ul li a:hover,
 .tablet .menu-wrap ul li a:hover {
-  color: #1C1C1C;
+  color: #161616;
 }
 .mobile .video-section .play-btn:hover,
 .tablet .video-section .play-btn:hover {
@@ -1475,7 +1475,7 @@ body.locked {
 }
 .case-slider .wrap_float {
   position: relative;
-  background: #1C1C1C;
+  background: #161616;
   padding: 140px 0;
 }
 .case-slider .arrows .arrow.prev {
@@ -1485,7 +1485,7 @@ body.locked {
   right: 32px;
 }
 .case-slider .arrows .arrow {
-  background: #CFCBC8;
+  background: #EDEDED;
 }
 .case-slider .arrows .arrow:before {
   background-image: url(../img/btn-arrow-black.svg);
@@ -1560,7 +1560,7 @@ body.locked {
   width: 74px;
   height: 74px;
   border-radius: 50%;
-  background: #1C1C1C;
+  background: #161616;
   position: absolute;
   top: 50%;
   margin-top: -37px;
@@ -1654,7 +1654,7 @@ body.locked {
   opacity: 0;
 }
 .case-authors .col .name:before {
-  background: #1C1C1C;
+  background: #161616;
   position: absolute;
   content: '';
   bottom: 3px;
@@ -1683,7 +1683,7 @@ body.locked {
   color: #BCBCBC;
 }
 .other-projects .items.hover .item:hover {
-  color: #1C1C1C;
+  color: #161616;
 }
 .other-projects .item {
   width: auto;
@@ -1711,7 +1711,7 @@ body.locked {
   opacity: 1;
 }
 .other-projects .item:hover {
-  color: #1C1C1C;
+  color: #161616;
 }
 .other-projects .slick-list {
   overflow: visible;
@@ -1720,7 +1720,7 @@ body.locked {
   font-size: 202px;
 }
 .other-projects .arrows .arrow {
-  background: #CFCBC8;
+  background: #EDEDED;
   margin-top: 0;
   top: 0;
 }
@@ -1812,7 +1812,7 @@ body.locked {
 }
 .link-to-mainpage a {
   transition: all .2s linear;
-  border-bottom: 2px solid #1C1C1C;
+  border-bottom: 2px solid #161616;
 }
 .link-to-mainpage a:hover {
   border-color: transparent;
@@ -1836,7 +1836,7 @@ body.locked {
 }
 .select-wrap .select-val {
   font-size: 24px;
-  border-bottom: 1px solid #1C1C1C;
+  border-bottom: 1px solid #161616;
   font-style: normal;
   width: auto;
   position: relative;
@@ -1902,14 +1902,14 @@ body.locked {
   border-radius: 50%;
 }
 .pag-ul li a:hover {
-  color: #1C1C1C;
+  color: #161616;
 }
 .pag-ul li a.active {
   background: #D5D5D5;
-  color: #1C1C1C;
+  color: #161616;
 }
 .arrows .arrow.pag-arrow {
-  background: #CFCBC8;
+  background: #EDEDED;
 }
 .arrows .arrow.pag-arrow:before {
   background-image: url(../img/btn-arrow-black.svg);
@@ -1926,7 +1926,7 @@ body.locked {
   display: block;
 }
 .back-link a {
-  border-bottom: 1px solid #1C1C1C;
+  border-bottom: 1px solid #161616;
 }
 .back-link.mobile-link {
   display: none;
@@ -1987,7 +1987,7 @@ body.locked {
 }
 .comments-section .cancel-reply span {
   font-size: 20px;
-  border-bottom: 1px solid #1C1C1C;
+  border-bottom: 1px solid #161616;
 }
 .comments-section .comments-list .write-comment .title {
   font-size: 34px;
@@ -2022,13 +2022,13 @@ body.locked {
 .comment-item .comment-head .userpic {
   width: 72px;
   height: 72px;
-  background: #1C1C1C;
+  background: #161616;
   border-radius: 50%;
   position: absolute;
   left: 0;
   top: 0;
   font-size: 34px;
-  color: #CFCBC8;
+  color: #EDEDED;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -2042,7 +2042,7 @@ body.locked {
   display: block;
 }
 .comment-item .comment-head .reply-link {
-  border-bottom: 1px solid #1C1C1C;
+  border-bottom: 1px solid #161616;
   white-space: nowrap;
   width: auto;
 }
@@ -2096,8 +2096,8 @@ body.locked {
   margin-top: 20px;
 }
 .submit:hover {
-  background: #1C1C1C;
-  color: #CFCBC8;
+  background: #161616;
+  color: #EDEDED;
 }
 .other-posts {
   margin-top: 120px;
@@ -2144,7 +2144,7 @@ body.locked {
 .other-posts .arrow {
   position: absolute;
   top: 0;
-  background: #CFCBC8;
+  background: #EDEDED;
   margin-top: 0;
 }
 .other-posts .arrow:before {
@@ -2915,7 +2915,7 @@ body.locked {
     padding-bottom: 180px;
   }
   .main-title .title-with-img .selected:hover {
-    color: #1C1C1C;
+    color: #161616;
     -webkit-text-stroke: inherit;
   }
   .video-section .wrap {
@@ -3031,7 +3031,7 @@ body.locked {
     transform: none;
   }
   .more-projects .cases-link:hover span {
-    color: #1C1C1C;
+    color: #161616;
     -webkit-text-stroke: inherit;
   }
   .more-projects .cases-link:hover:before {
